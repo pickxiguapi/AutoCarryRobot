@@ -1,5 +1,9 @@
 # AutoCarryRobot
 
+## Usage
+
+A demo based on "zhiyuansu" robot platform. The functions include using mobile app to control robot combat and implement robot automatic transportation in a given area.
+
 ## Code structure
 
 ### Auto Move
@@ -11,3 +15,5 @@
 - `WaveModule.py`: use ultrasonic module
 
 ### APP Control Module
+
+- easy control
