@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">socketL</string>
+    <string name="up">↑</string>
+    <string name="down">↓</string>
+    <string name="left">←</string>
+    <string name="right">→</string>
+    <string name="atk">A</string>
+    <string name="ass">B</string>
+</resources>
